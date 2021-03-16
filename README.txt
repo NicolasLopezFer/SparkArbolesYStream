@@ -8,8 +8,4 @@ Hay 2 carpetas, 1 de las carpetas (arbol) solo necesita correr las lineas ya que
 
 ### Pre-requisitos 📋
 
-Es necesario tener instalado: python3, pip3 y el archivo de spark sacado de:
-
-```
-http://spark.apache.org/
-```
+Es necesario tener instalado: python3, pip3 y el archivo de spark sacado de: http://spark.apache.org/
